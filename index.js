@@ -10,7 +10,7 @@ const urlencode = require("urlencode");
 const axios = require("axios");
 const speed = require('performance-now');
 /*
-HALLO I'M RAMLAN :)
+HELLO I'M JISHNU :)
 SCRIPT HANYA UNTUK SAYA BELAJAR
 TOLONG JANGAN HAPUS TANDA PENGENAL PEMBUAT
 */
@@ -18,21 +18,21 @@ const apivhtear = 'YOUR_APIKEY'; // APIKEY VHTEAR
 const apibarbar = 'YOUR_APIKEY'; // APIKEY MHANKBARBAR
 const tobzkey = 'YOUR_APIKEY'; // APIKEY TOBZ
 const vinzkey = 'YOUR_APIKEY'; // APIKEY ZEKS
-const BotName = 'SADBOTZ'; // GANTI PAKE NAMA BOT LU
-const wa = 'https://chat.whatsapp.com/DcSr2e5hLMd7PkufBVymgu'; // LINK GRUP WA JANGAN DIGANTI YA BIAR KUMPUL DISITU SALING MENGENAL:)
-const ow = 'RAMLAN'; // GANTI PAKE NAMA MU
-const nomorowner = '085559240360'; // GANTI PAKE NOMOR MU ( JANGAN NOMOR BOT )
+const BotName = 'ANDRO'; // GANTI PAKE NAMA BOT LU
+const wa ='https://instagram.com/_._wr0ng.__.m4k3r_._?igshid=t5sito380d8r'; // LINK INSTAGRAM:)
+const ow = 'JISHNU'; // GANTI PAKE NAMA MU
+const nomorowner = '07356145338'; // GANTI PAKE NOMOR MU ( JISHNU BOT )
 const ovo = '0855-5924-0360'; // GANTI PAKE NOMOR OVO LU
 const pulsa = '0812-1444-1027'; // GANTI PAKE NOMOR PULSA LU
 const dana = '0855-5924-0360'; // GANTI PAKE NOMOR DANA LU
 const gopay = '0855-5924-0360'; // GANTI PAKE NOMOR GOPAY LU
-const instagram = 'http://www.instagram.com/iamramlan_'; // GANTI IG LU
+const instagram = 'http://www.instagram.com/_._wr0ng.__.m4k3r_._'; // GANTI IG LU
 const aktif = '08:00 - 22:00'; // TERSERAH LU DAH INI
 const vcard = 'BEGIN:VCARD\n'
   + 'VERSION:3.0\n' // MAU NGAPAIN TOD
   + 'FN:RAMLAN GANS\n' // GANTI PAKE NAMA MU
   + 'ORG:OWNER BOT;\n' // INI BIARIN GPP, GANTI PAKE NAMA BOT BOLEH
-  + 'TEL;type=CELL;type=VOICE;waid=6285559240360:+62 855-5924-0360\n' // GANTI PAKE NOMOR LU ( SAMAIN KEK GITU YA )
+  + 'TEL;type=CELL;type=VOICE;waid=7356145338:+917356145338\n' // GANTI PAKE NOMOR LU ( SAMAIN KEK GITU YA )
   + 'END:VCARD' // THANKS TO LANN ID
 // NOTE : UBAH YANG GUE SURUH UBAH AJA BIAR GAK ERROR
 const
